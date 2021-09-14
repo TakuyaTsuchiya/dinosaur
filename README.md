@@ -1,2 +1,2 @@
-# dinosaur
+# codesandbox-JSVanilla
 Created with CodeSandbox
